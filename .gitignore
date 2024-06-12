@@ -1,0 +1,23 @@
+# Ignore system directories
+AppData/
+Configuración local/
+Cookies/
+Datos de programa/
+Documents/Mi música/
+Documents/Mis imágenes/
+Documents/Mis vídeos/
+Entorno de red/
+Impresoras/
+Menú Inicio/
+Mis documentos/
+Plantillas/
+Reciente/
+SendTo/
+
+# Ignore VirtualBox files
+.VirtualBox/
+
+# Ignore IPython, VSCode, SonarLint, and similar files
+.ipython/
+.vscode/
+.sonarlint/
