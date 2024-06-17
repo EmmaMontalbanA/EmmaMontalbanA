@@ -19,20 +19,10 @@ Soy una apasionada de la Ciencia de Datos y la Inteligencia Artificial, actualme
 - **Herramientas de Visualización**: Power BI
 - **Desarrollo de Software**: Git, Jupyter Notebooks, PyCharm
 
-## Proyectos
-
-### [Proyecto 1: Análisis de Datos de la Naturaleza](https://github.com/tuusuario/proyecto-analisis-naturaleza)
-Exploración y visualización de datos ecológicos para identificar tendencias y patrones en la biodiversidad.
-
-### [Proyecto 2: Modelo Predictivo para Fotografía](https://github.com/tuusuario/proyecto-modelo-predictivo-fotografia)
-Desarrollo de un modelo de machine learning para predecir las mejores condiciones para la fotografía de naturaleza.
-
-### [Proyecto 3: Automatización de Tareas con Python](https://github.com/tuusuario/proyecto-automatizacion-python)
-Creación de scripts en Python para automatizar tareas repetitivas y mejorar la eficiencia en el manejo de datos.
 
 ## Contacto
 
-- **LinkedIn**: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn**: http://www.linkedin.com/in/emmamontalban
 - **Correo**: emma.montalbanalv@gmail.com
 
 ---
