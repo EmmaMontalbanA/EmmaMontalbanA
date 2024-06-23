@@ -13,28 +13,24 @@ Soy una apasionada de la Ciencia de Datos y la Inteligencia Artificial, actualme
 
 ## Habilidades Técnicas
 
-- **Lenguajes de Programación**: Python.
-- **Bibliotecas y Herramientas de Datos**: pandas, numpy, scikit-learn, matplotlib, seaborn
+- **Lenguajes de Programación**: Python, SQL
+- **Bibliotecas y Herramientas de Datos**: pandas, numpy, scikit-learn, matplotlib, seaborn, scipy
 - **Bases de Datos**: SQL, NoSQL
 - **Herramientas de Visualización**: Power BI
 - **Desarrollo de Software**: Git, Jupyter Notebooks, PyCharm
+- **Metodologías**: CRISP-DM
 
 ## Proyectos
 
-### [Proyecto 1: Análisis de Datos de la Naturaleza](https://github.com/tuusuario/proyecto-analisis-naturaleza)
-Exploración y visualización de datos ecológicos para identificar tendencias y patrones en la biodiversidad.
-
-### [Proyecto 2: Modelo Predictivo para Fotografía](https://github.com/tuusuario/proyecto-modelo-predictivo-fotografia)
-Desarrollo de un modelo de machine learning para predecir las mejores condiciones para la fotografía de naturaleza.
-
-### [Proyecto 3: Automatización de Tareas con Python](https://github.com/tuusuario/proyecto-automatizacion-python)
-Creación de scripts en Python para automatizar tareas repetitivas y mejorar la eficiencia en el manejo de datos.
+### [Calidad del Aire en Madrid](https://github.com/EmmaMontalban/proyecto-calidad-aire-madrid)
+Exploración, análisis y visualización de datos sobre la calidad del aire en Madrid utilizando Python, SQL y Power BI. El proyecto incluye la identificación de patrones y tendencias para proporcionar información valiosa sobre la calidad del aire y su impacto en la salud pública.
 
 ## Contacto
 
-- **LinkedIn**: https://linkedin.com/in/emmamontalban
+- **LinkedIn**: [Emma Montalbán](https://linkedin.com/in/emmamontalban)
 - **Correo**: emma.montalbanalv@gmail.com
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy emocionado(a) de aprender y colaborar en proyectos interesantes en el campo de la ciencia de datos, y siempre estoy dispuesto(a) a compartir mi amor por la programación, los datos, la fotografía y la naturaleza. 🌟
+¡Gracias por visitar mi perfil! Estoy emocionada de aprender y colaborar en proyectos interesantes en el campo de la ciencia de datos, y siempre estoy dispuesta a compartir mi amor por la programación, los datos, la fotografía y la naturaleza. 🌟
+
