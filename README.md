@@ -32,7 +32,7 @@ Creación de scripts en Python para automatizar tareas repetitivas y mejorar la 
 
 ## Contacto
 
-- **LinkedIn**: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn**: https://linkedin.com/in/emmamontalban
 - **Correo**: emma.montalbanalv@gmail.com
 
 ---
