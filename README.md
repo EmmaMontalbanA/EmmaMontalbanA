@@ -29,7 +29,7 @@ Exploración, análisis y visualización de datos sobre la calidad del aire en M
 
 - **LinkedIn**: [Emma Montalbán](https://linkedin.com/in/emmamontalban)
 - **Correo**: [emma.montalbanalv@gmail.com](mailto:emma.montalbanalv@gmail.com)
-
+- **Correo2**: [emonalv@gmail.com](mailto:emonalv@gmail.com)
 
 ---
 
