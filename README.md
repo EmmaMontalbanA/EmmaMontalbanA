@@ -22,7 +22,7 @@ Soy una apasionada de la Ciencia de Datos y la Inteligencia Artificial, actualme
 
 ## Proyectos
 
-### [Calidad del Aire en Madrid](https://github.com/EmmaMontalbanA/proyecto-calidad-aire-madrid)
+### [Calidad del Aire en Madrid](https://github.com/EmmaMontalbanA/Calidad_Aire_Madrid)
 Exploración, análisis y visualización de datos sobre la calidad del aire en Madrid utilizando Python, SQL y Power BI. El proyecto incluye la identificación de patrones y tendencias para proporcionar información valiosa sobre la calidad del aire y su impacto en la salud pública.
 
 ## Contacto
